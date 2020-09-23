@@ -1,24 +1,23 @@
 {
-    "name": "strapi-provider-upload-aws-s3-cdn",
-    "version": "0.0.1",
-    "description": "AWS S3 provider for strapi upload with cdn (cloudfront)",
-    "directories": {
-      "lib": "./lib"
-    },
-    "main": "./lib",
-    "dependencies": {
-      "aws-sdk": "^2.758.0",
-      "lodash": "^4.17.20"
-    },
-    "strapi": {
-      "isProvider": true
-    },
-    "engines": {
-      "node": ">=10.10.0",
-      "npm": ">=6.0.0"
-    },
-    "license": "MIT",
-    "scripts": {
-      "test": "echo \"no tests yet\""
-    }
-  }
+  "name": "strapi-provider-upload-aws-s3-cdn",
+  "version": "1.0.3",
+  "description": "",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivekanandanS/strapi-provider-upload-aws-s3-cdn.git"
+  },
+  "author": "vivekanandansakthivelu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VivekanandanS/strapi-provider-upload-aws-s3-cdn/issues"
+  },
+  "homepage": "https://github.com/VivekanandanS/strapi-provider-upload-aws-s3-cdn#readme"
+  
+}
