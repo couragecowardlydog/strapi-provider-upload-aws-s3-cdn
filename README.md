@@ -1,6 +1,6 @@
 # Strapi : Upload Provider
 
-Foobar is a Python library for dealing with word pluralization.
+Upload provider for strapi , with S3 and CDN
 
 ## Installation
 
