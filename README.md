@@ -17,7 +17,7 @@ module.exports = ({ env }) => ({
     upload: {
       provider: 'aws-s3-cdn',
       providerOptions: {
-        region: <> ,
+        region: <aws-region> ,
         params: {
           Bucket: <bucketName> ,
         },
